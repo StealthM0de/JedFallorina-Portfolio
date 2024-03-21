@@ -20,7 +20,7 @@ export const socialLinks = [
   },
   {
     id: 4,
-    href: 'mailto:marvedcodes@gmail.com',
+    href: 'mailto:jedalston.fallorina@gmail.com',
     icon: IoIosMail,
   },
 ];

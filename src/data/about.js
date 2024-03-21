@@ -8,17 +8,17 @@ export const aboutList1 = [
   {
     id: 1,
     description: 'Email',
-    value: 'juandelacruz@email.com',
+    value: 'jedalston.fallorina@gmail.com',
   },
   {
     id: 2,
     description: 'Phone',
-    value: '+639123456789',
+    value: '+639183460690',
   },
   {
     id: 3,
     description: 'City',
-    value: 'Baguio City',
+    value: 'Quezon City',
   },
 ];
 
