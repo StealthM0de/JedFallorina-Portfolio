@@ -51,7 +51,7 @@ export const aboutList3 = [
     id: 2,
     school: 'San Bartolome High School',
     year: '2010',
-    course: 'Senior High School',
+    course: 'High School',
   },
   {
     id: 3,
