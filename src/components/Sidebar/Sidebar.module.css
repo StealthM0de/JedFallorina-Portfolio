@@ -70,11 +70,11 @@
 
 .link:hover,
 .link:focus {
-  color: var(--DARK);
+  color: var(--SECONDARY);
 }
 
 .linkActive {
   composes: link;
-  color: var(--DARK);
+  color: var(--SECONDARY);
   font-weight: 700;
 }
