@@ -31,7 +31,7 @@ export const aboutList2 = [
   {
     id: 2,
     description: 'Hobbies',
-    value: 'Basketball, Computer Games, Hiking',
+    value: 'Basketball, Computer Games, Music and Guitar',
   },
   {
     id: 3,

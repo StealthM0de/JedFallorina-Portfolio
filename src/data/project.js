@@ -49,19 +49,19 @@ export const projects = [
   {
     id: 7,
     src: project7,
-    name: 'Image Finder',
-    href: 'https://marventures.github.io/goit-react-hw-04-images/',
+    name: 'Image Finder - React',
+    href: 'https://stealthm0de.github.io/goit-react-hw-04-images/',
   },
   {
     id: 8,
     src: project8,
-    name: 'Movie Search',
-    href: 'https://marventures.github.io/goit-react-hw-05-movies/',
+    name: 'Cat Project',
+    href: 'https://stealthm0de.github.io/goit-js-hw-10/',
   },
   {
     id: 9,
     src: project9,
-    name: 'Phonebook',
-    href: 'https://marventures.github.io/goit-react-hw-08-phonebook/',
+    name: 'Feedback',
+    href: 'https://stealthm0de.github.io/goit-react-hw-04-feedback/',
   },
 ];
