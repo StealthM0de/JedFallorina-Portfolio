@@ -67,4 +67,16 @@ export const aboutList4 = [
     year: '2024',
     position: 'Full Stack Developer',
   },
+  {
+    id: 1,
+    company: 'MSERV',
+    year: '2018-2023',
+    position: 'Electrical Engineer',
+  },
+  {
+    id: 1,
+    company: 'Telus',
+    year: '2016',
+    position: 'Customer Service Representative',
+  },
 ];
