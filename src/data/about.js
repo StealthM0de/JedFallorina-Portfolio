@@ -55,7 +55,7 @@ export const aboutList3 = [
   },
   {
     id: 3,
-    school: 'Polytechnic University of the Philippines Manila',
+    school: 'PUP-Manila',
     year: '2015',
     course: 'Bachelor of Science in Electrical Engineering',
   },
