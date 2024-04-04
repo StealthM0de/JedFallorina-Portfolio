@@ -61,7 +61,7 @@ export const projects = [
   {
     id: 9,
     src: project9,
-    name: 'Feedback',
-    href: 'https://stealthm0de.github.io/goit-react-hw-04-feedback/',
+    name: 'Phonebook Project',
+    href: 'https://stealthm0de.github.io/goit-react-hw-08-phonebook/',
   },
 ];
